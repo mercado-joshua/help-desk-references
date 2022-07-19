@@ -1,11 +1,7 @@
-# Title: UNLOCK STYLE AND SEASON CODE
+# Title: Cancel MR
 ## Prerequisite:
 ```
-The Style and Season Code should be indicate in the Ticket description or attachment file. (REQUIRED)
-```
-
-```
-It's better if the requestor provided a screenshot of a pop-up error or notification in their GO+. (OPTIONAL)
+The Requestor should provide both IO Number (7 digits) and SAP Material Number (REQUIRED)
 ```
 
 ## Problem Description:
